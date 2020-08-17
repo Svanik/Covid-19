@@ -1,5 +1,5 @@
 # Data Science COVID-19 Project
-## Matt Prodani and Svanik Dani
+## Svanik Dani and Matt Prodani
 A data science project visualizing and manipulating Johns Hopkins COVID-19 Data.
 
 
