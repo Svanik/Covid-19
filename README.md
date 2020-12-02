@@ -11,4 +11,4 @@ Perhaps the biggest challenge was getting the time series format given by John H
 
 
 ### Extras
-Added an animation showing the Top 10 Countries in cases overtime through matplotlib in a Bar Chart Race ormat
+Added an animation showing the Top 10 Countries in cases overtime through matplotlib in a Bar Chart Race fromat
